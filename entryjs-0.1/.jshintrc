@@ -1,0 +1,22 @@
+{
+    "jquery": true,
+    "browser": true,
+    "shadow": true,
+    "devel": true,
+    "-W058": true,
+    "globalstrict": true,
+    "globals": {
+        "goog": true,
+        "createjs": true,
+        "Entry": true,
+        "Blockly": true,
+        "Lang": true,
+        "context": true,
+        "popup": true,
+        "WebFont": true,
+        "CanvasInput": true,
+        "EntryStatic": true,
+        "EaselHandle": true,
+        "ndgmr": true
+    }
+}
